@@ -1,0 +1,10 @@
+.idea
+.project
+.nbproject
+.gulp-scss-cache
+.sass-cache
+
+node_modules
+
+/web/css
+/web/js
